@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400d5586-a48e-4d5b-b2ea-f52b3760a630" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-One-Short/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-One-Short/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AreaOfTriangle.executor": "Run",
-    "Application.AreaOfTriangle2.executor": "Run",
-    "Application.Concat.executor": "Run",
-    "Application.Cuboid.executor": "Run",
-    "Application.FormatSpecifier.executor": "Run",
-    "Application.JavaStrings.executor": "Run",
-    "Application.Prog2.executor": "Run",
-    "Application.Quadratic.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "Settings.Markdown"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AreaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfTriangle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cuboid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatSpecifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quadratic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
