@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159b75cc-cfbd-4ad0-97f1-ff27bc5745f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaStrings4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-One-Short/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-One-Short/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaString5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +28,15 @@
     &quot;assignee&quot;: &quot;AyanKumarDey&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AyanKumarDey/Java.git&quot;,
-    &quot;accountId&quot;: &quot;59380861-79c4-4756-a612-6d08851e457c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AyanKumarDey/Java.git",
+    "accountId": "2cb162e5-1bdf-4ed4-a124-0a02a881c368"
   }
-}</component>
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,11 +48,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JavaString5.executor": "Run",
     "Application.JavaStrings.executor": "Run",
     "Application.JavaStrings2.executor": "Run",
     "Application.JavaStrings3.executor": "Run",
     "Application.JavaStrings4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
