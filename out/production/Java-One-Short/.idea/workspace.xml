@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159b75cc-cfbd-4ad0-97f1-ff27bc5745f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaString5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,8 @@
     "Application.JavaStrings2.executor": "Run",
     "Application.JavaStrings3.executor": "Run",
     "Application.JavaStrings4.executor": "Run",
+    "Application.StringProblem1.executor": "Run",
+    "Application.StringProblem2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
