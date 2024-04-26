@@ -1,3 +1,5 @@
+package Java_Strings;
+
 import java.lang.*;
 public class JavaStrings {
     public static void main(String args[]){

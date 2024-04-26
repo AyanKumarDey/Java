@@ -1,3 +1,5 @@
+package Arithematic_Operators;
+
 import java.util.*;
 public class Cuboid {
     public static void main(String args[]){

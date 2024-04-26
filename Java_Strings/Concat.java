@@ -1,4 +1,4 @@
-//Here is the concatenation of two strings.
+package Java_Strings;//Here is the concatenation of two strings.
 import java.util.*;
 public class Concat {
     public static void main(String args[]){

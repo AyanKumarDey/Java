@@ -1,3 +1,5 @@
+package Java_Strings;
+
 //Removing multiple space from the string and replacing them with single space.
 public class StringProblem5 {
     public static void main(String args[]){

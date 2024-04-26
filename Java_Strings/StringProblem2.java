@@ -1,3 +1,5 @@
+package Java_Strings;
+
 //Find the number is HexaDecimal or not.
 public class StringProblem2 {
     public static void main(String args[]){

@@ -1,4 +1,6 @@
-public class JavaString5 {
+package Java_Strings;
+
+public class JavaStrings5 {
     public static void main(String args[]){
         String s = "programmer@gmail.com";
         int i = s.indexOf('@');

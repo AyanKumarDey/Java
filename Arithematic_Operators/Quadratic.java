@@ -1,3 +1,5 @@
+package Arithematic_Operators;
+
 import java.util.*;
 public class Quadratic {
     public static void main(String args[]){

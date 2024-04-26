@@ -1,3 +1,5 @@
+package Java_Strings;
+
 //Find the number is binary or not.
 public class StringProblem1 {
     public static void main(String args[]) {

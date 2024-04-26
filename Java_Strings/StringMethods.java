@@ -1,3 +1,5 @@
+package Java_Strings;
+
 import java.util.*;
 public class StringMethods {
     public static void main(String args[]){

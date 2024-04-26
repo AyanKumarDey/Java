@@ -1,3 +1,5 @@
+package Java_Strings;
+
 //Remove extra symbols from the string.
 public class StringProblem4 {
     public static void main(String args[]){
