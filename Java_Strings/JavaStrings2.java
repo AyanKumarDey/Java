@@ -11,7 +11,7 @@ public class JavaStrings2 {
       String str2 = "Hello Java";
       char s = str2.charAt(4);
       int b = str2.indexOf('l');//Provides the first index of the character of the string.
-      String c = str2.replace("e","i"); //Use to replace a character from the strings.
+      String c = str2.replace("e","i"); //Use to replace a string in it's first occurence.
       System.out.println(s1);
       System.out.println(str2);
       System.out.println(s);
