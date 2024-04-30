@@ -20,7 +20,7 @@ public class LoopProg8 {
         {
             r = num1%10;
             num1 = num1/10;
-            sum += Math.pow(r,count);
+            sum = sum+Math.pow(r,count);
         }
         System.out.println("The total sum is = "+sum);
         if(sum==num2)
