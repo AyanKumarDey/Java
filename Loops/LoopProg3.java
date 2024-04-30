@@ -1,3 +1,4 @@
+//Created table using for loop.
 package Loops;
 import java.util.*;
 public class LoopProg3 {
