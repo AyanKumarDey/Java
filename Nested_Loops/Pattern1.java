@@ -1,23 +1,21 @@
-package Loops;
+package Nested_Loops;
 import java.util.*;
-public class Pattern4 {
+public class Pattern1 {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the max rows:-");
+        System.out.println("Enter the max row:-");
         int r = sc.nextInt();
-        System.out.println("Enter the max columns:-");
+        System.out.println("Enter the max column:-");
         int c = sc.nextInt();
-        int sum = 1;
         System.out.println("The following pattern is:-");
         for(int i=1;i<=r;i++)
         {
             for(int j=1;j<=c;j++)
             {
-                System.out.format("%02d ",sum);
-                sum++;
+                System.out.print(j+" ");
             }
-            System.out.println(" ");
+            System.out.println("");
         }
     }
 }
