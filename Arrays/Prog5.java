@@ -1,7 +1,7 @@
-//Finding the highest element in the array.
+//Finding the Second_Highest element in the array.
 package Arrays;
 import java.util.*;
-public class Prog4 {
+public class Prog5 {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
@@ -16,9 +16,9 @@ public class Prog4 {
         }
         System.out.println(" ");
         System.out.println("The array is:-");
-        for(int x:A)
+        for(int i=0;i<A.length;i++)
         {
-            System.out.print(x+" ");
+            System.out.print(A[i]+" ");
         }
         System.out.println(" ");
         int max = A[0];
@@ -29,7 +29,15 @@ public class Prog4 {
                 max = A[i];
             }
         }
-        System.out.println(" ");
-        System.out.println("The highest elements in the array is = "+max);
+        System.out.println("The max element in the array is = "+max);
+        int max2 = A[0];
+        for(int i1=0;i1<A.length;i1++)
+        {
+            if((max2<A[i1]) && (A[i1]!=max))
+            {
+                max2 = A[i1];
+            }
+        }
+        System.out.println("The second highest element in the array is = "+max2);
     }
 }
